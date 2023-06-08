@@ -16,6 +16,20 @@
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/dilshoda0202)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/dilshoda0202)
+[![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/dilshoda0202)
+[![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/dilshoda0202)
+[![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)](https://github.com/dilshoda0202)
+    
+### Tests
+[![jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/dilshoda0202)
+
+### Operating Systems
+[![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://github.com/dilshoda0202)
+    
+### Cloud 
+[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://github.com/dilshoda0202)
+    
+
 
 <!---
 dilshoda0202/dilshoda0202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
